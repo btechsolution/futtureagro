@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Ideale links é um agregador de links para usar como cartão de visitas online.
+O Futture links é um agregador de links para usar como cartão de visitas online.
 
 ## :memo: Licença
 
